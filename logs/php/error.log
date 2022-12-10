@@ -1,0 +1,774 @@
+[12-Nov-2022 06:44:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php on line 209
+[12-Nov-2022 06:44:00 UTC] PHP Stack trace:
+[12-Nov-2022 06:44:00 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:0
+[12-Nov-2022 06:44:00 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:176
+[12-Nov-2022 06:44:00 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-plugin-upgrader.php:137
+[12-Nov-2022 06:44:00 UTC] PHP   4. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-wp-upgrader.php:859
+[12-Nov-2022 06:44:00 UTC] PHP   5. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[12-Nov-2022 06:44:00 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[12-Nov-2022 06:44:00 UTC] PHP   7. wp_version_check() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:306
+[12-Nov-2022 06:44:00 UTC] PHP   8. trigger_error() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php:209
+[12-Nov-2022 06:44:03 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php on line 209
+[12-Nov-2022 06:44:03 UTC] PHP Stack trace:
+[12-Nov-2022 06:44:03 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:0
+[12-Nov-2022 06:44:03 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:176
+[12-Nov-2022 06:44:03 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-plugin-upgrader.php:137
+[12-Nov-2022 06:44:03 UTC] PHP   4. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-wp-upgrader.php:859
+[12-Nov-2022 06:44:03 UTC] PHP   5. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[12-Nov-2022 06:44:03 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[12-Nov-2022 06:44:03 UTC] PHP   7. wp_version_check() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:306
+[12-Nov-2022 06:44:03 UTC] PHP   8. trigger_error() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php:209
+[12-Nov-2022 06:44:08 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php on line 728
+[12-Nov-2022 06:44:08 UTC] PHP Stack trace:
+[12-Nov-2022 06:44:08 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:0
+[12-Nov-2022 06:44:08 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:176
+[12-Nov-2022 06:44:08 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-plugin-upgrader.php:137
+[12-Nov-2022 06:44:08 UTC] PHP   4. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-wp-upgrader.php:859
+[12-Nov-2022 06:44:08 UTC] PHP   5. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[12-Nov-2022 06:44:08 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[12-Nov-2022 06:44:08 UTC] PHP   7. wp_update_themes() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:306
+[12-Nov-2022 06:44:08 UTC] PHP   8. trigger_error() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php:728
+[12-Nov-2022 06:44:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php on line 447
+[12-Nov-2022 06:44:09 UTC] PHP Stack trace:
+[12-Nov-2022 06:44:09 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:0
+[12-Nov-2022 06:44:09 UTC] PHP   2. Plugin_Upgrader->install() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\update.php:176
+[12-Nov-2022 06:44:09 UTC] PHP   3. Plugin_Upgrader->run() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-plugin-upgrader.php:137
+[12-Nov-2022 06:44:09 UTC] PHP   4. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\includes\class-wp-upgrader.php:859
+[12-Nov-2022 06:44:09 UTC] PHP   5. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[12-Nov-2022 06:44:09 UTC] PHP   6. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[12-Nov-2022 06:44:09 UTC] PHP   7. wp_update_plugins() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:306
+[12-Nov-2022 06:44:09 UTC] PHP   8. trigger_error() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\update.php:447
+[13-Nov-2022 04:46:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 19
+[13-Nov-2022 04:48:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 19
+[13-Nov-2022 14:04:23 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[13-Nov-2022 14:09:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_posttype' not found or invalid function name in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php on line 308
+[13-Nov-2022 14:09:23 UTC] PHP Stack trace:
+[13-Nov-2022 14:09:23 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 14:09:23 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 14:09:23 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 14:09:23 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 14:09:23 UTC] PHP   5. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-settings.php:617
+[13-Nov-2022 14:09:23 UTC] PHP   6. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[13-Nov-2022 14:09:23 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[13-Nov-2022 14:09:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_posttype' not found or invalid function name in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php on line 308
+[13-Nov-2022 14:09:37 UTC] PHP Stack trace:
+[13-Nov-2022 14:09:37 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 14:09:37 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 14:09:37 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 14:09:37 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 14:09:37 UTC] PHP   5. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-settings.php:617
+[13-Nov-2022 14:09:37 UTC] PHP   6. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[13-Nov-2022 14:09:37 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[13-Nov-2022 18:09:29 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 45
+[13-Nov-2022 18:26:18 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:26:18 UTC] PHP Stack trace:
+[13-Nov-2022 18:26:18 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:26:18 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:26:18 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:26:18 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:26:22 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:26:22 UTC] PHP Stack trace:
+[13-Nov-2022 18:26:22 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:26:22 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:26:22 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:26:22 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:27:35 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:27:35 UTC] PHP Stack trace:
+[13-Nov-2022 18:27:35 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:27:35 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:27:35 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:27:35 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:27:58 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:27:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:27:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:27:58 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:27:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:27:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:28:19 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:28:19 UTC] PHP Stack trace:
+[13-Nov-2022 18:28:19 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:28:19 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:28:19 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:28:19 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:28:58 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:28:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:28:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:28:58 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:28:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:28:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:29:36 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:29:36 UTC] PHP Stack trace:
+[13-Nov-2022 18:29:36 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:29:36 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:29:36 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:29:36 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:30:39 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:30:39 UTC] PHP Stack trace:
+[13-Nov-2022 18:30:39 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:30:39 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:30:39 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:30:39 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:30:58 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:30:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:30:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:30:58 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:30:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:30:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:31:39 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:31:39 UTC] PHP Stack trace:
+[13-Nov-2022 18:31:39 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:31:39 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:31:39 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:31:39 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:32:58 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:32:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:32:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:32:58 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:32:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:32:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:33:40 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:33:40 UTC] PHP Stack trace:
+[13-Nov-2022 18:33:40 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:33:40 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:33:40 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:33:40 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:33:57 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:33:57 UTC] PHP Stack trace:
+[13-Nov-2022 18:33:57 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\post.php:0
+[13-Nov-2022 18:33:57 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\post.php:12
+[13-Nov-2022 18:33:57 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin.php:34
+[13-Nov-2022 18:33:57 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:33:57 UTC] PHP   5. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:33:57 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:33:57 UTC] PHP Stack trace:
+[13-Nov-2022 18:33:57 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:33:57 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:33:57 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:33:57 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:33:58 UTC] PHP Fatal error:  Cannot redeclare create_posttype() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:93) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 117
+[13-Nov-2022 18:33:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:33:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[13-Nov-2022 18:33:58 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[13-Nov-2022 18:33:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:13
+[13-Nov-2022 18:33:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:33:58 UTC] PHP   5. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:36:58 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:36:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:36:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:36:58 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:36:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:36:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:37:48 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:37:48 UTC] PHP Stack trace:
+[13-Nov-2022 18:37:48 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:37:48 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:37:48 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:37:48 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:38:58 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:38:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:38:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:38:58 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:38:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:38:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:39:49 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:39:49 UTC] PHP Stack trace:
+[13-Nov-2022 18:39:49 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:39:49 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:39:49 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:39:49 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:40:32 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:40:32 UTC] PHP Stack trace:
+[13-Nov-2022 18:40:32 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:40:32 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:40:32 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:40:32 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:40:50 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:40:50 UTC] PHP Stack trace:
+[13-Nov-2022 18:40:50 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:40:50 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:40:50 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:40:50 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:40:58 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:40:58 UTC] PHP Stack trace:
+[13-Nov-2022 18:40:58 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:40:58 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:40:58 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:40:58 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:41:33 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:41:33 UTC] PHP Stack trace:
+[13-Nov-2022 18:41:33 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:41:33 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:41:33 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:41:33 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:42:25 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:42:25 UTC] PHP Stack trace:
+[13-Nov-2022 18:42:25 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:42:25 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:42:25 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:42:25 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:42:51 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:42:51 UTC] PHP Stack trace:
+[13-Nov-2022 18:42:51 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:42:51 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:42:51 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:42:51 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:43:25 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:43:25 UTC] PHP Stack trace:
+[13-Nov-2022 18:43:25 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:43:25 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:43:25 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:43:25 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:43:34 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:43:34 UTC] PHP Stack trace:
+[13-Nov-2022 18:43:34 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:43:34 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:43:34 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:43:34 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:44:52 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:44:52 UTC] PHP Stack trace:
+[13-Nov-2022 18:44:52 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:44:52 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:44:52 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:44:52 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:44:55 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:44:55 UTC] PHP Stack trace:
+[13-Nov-2022 18:44:55 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:44:55 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:44:55 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:44:55 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:45:35 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:45:35 UTC] PHP Stack trace:
+[13-Nov-2022 18:45:35 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:45:35 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:45:35 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:45:35 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:45:55 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:45:55 UTC] PHP Stack trace:
+[13-Nov-2022 18:45:55 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:45:55 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:45:55 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:45:55 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:46:53 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:46:53 UTC] PHP Stack trace:
+[13-Nov-2022 18:46:53 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:46:53 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:46:53 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:46:53 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:46:55 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:46:55 UTC] PHP Stack trace:
+[13-Nov-2022 18:46:55 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:46:55 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:46:55 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:46:55 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:47:36 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:47:36 UTC] PHP Stack trace:
+[13-Nov-2022 18:47:36 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:47:36 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:47:36 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:47:36 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:48:47 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:48:47 UTC] PHP Stack trace:
+[13-Nov-2022 18:48:47 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:48:47 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:48:47 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:48:47 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:48:54 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:48:54 UTC] PHP Stack trace:
+[13-Nov-2022 18:48:54 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:48:54 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:48:54 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:48:54 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:49:37 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:49:37 UTC] PHP Stack trace:
+[13-Nov-2022 18:49:37 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:49:37 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:49:37 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:49:37 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:49:46 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:49:46 UTC] PHP Stack trace:
+[13-Nov-2022 18:49:46 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:49:46 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:49:46 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:49:46 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:51:46 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:51:46 UTC] PHP Stack trace:
+[13-Nov-2022 18:51:46 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:51:46 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:51:46 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:51:46 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:52:46 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:52:46 UTC] PHP Stack trace:
+[13-Nov-2022 18:52:46 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:52:46 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:52:46 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:52:46 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:53:26 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:53:26 UTC] PHP Stack trace:
+[13-Nov-2022 18:53:26 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:53:26 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:53:26 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:53:26 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:53:28 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:53:28 UTC] PHP Stack trace:
+[13-Nov-2022 18:53:28 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\post.php:0
+[13-Nov-2022 18:53:28 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\post.php:12
+[13-Nov-2022 18:53:28 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin.php:34
+[13-Nov-2022 18:53:28 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:53:28 UTC] PHP   5. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:53:28 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:53:28 UTC] PHP Stack trace:
+[13-Nov-2022 18:53:28 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:53:28 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:53:28 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:53:28 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:53:28 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:53:28 UTC] PHP Stack trace:
+[13-Nov-2022 18:53:28 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[13-Nov-2022 18:53:28 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[13-Nov-2022 18:53:28 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:13
+[13-Nov-2022 18:53:28 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:53:28 UTC] PHP   5. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[13-Nov-2022 18:54:19 UTC] PHP Fatal error:  Cannot redeclare Service_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:98) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 132
+[13-Nov-2022 18:54:19 UTC] PHP Stack trace:
+[13-Nov-2022 18:54:19 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[13-Nov-2022 18:54:19 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[13-Nov-2022 18:54:19 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[13-Nov-2022 18:54:19 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[14-Nov-2022 08:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_post_thumbanil_url() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php:408
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 408
+[14-Nov-2022 11:15:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:15:51 UTC] PHP Stack trace:
+[14-Nov-2022 11:15:51 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:15:51 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:15:51 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:15:51 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:15:51 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php:9
+[14-Nov-2022 11:15:51 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:15:51 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:15:51 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 11:15:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:15:52 UTC] PHP Stack trace:
+[14-Nov-2022 11:15:52 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:15:52 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:15:52 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:15:52 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:15:52 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:4
+[14-Nov-2022 11:15:52 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:15:52 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:15:52 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 11:17:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:17:21 UTC] PHP Stack trace:
+[14-Nov-2022 11:17:21 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:17:21 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:17:21 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:17:21 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:17:21 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php:9
+[14-Nov-2022 11:17:21 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:17:21 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:17:21 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 11:17:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:17:22 UTC] PHP Stack trace:
+[14-Nov-2022 11:17:22 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:17:22 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:17:22 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:17:22 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:17:22 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:4
+[14-Nov-2022 11:17:22 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:17:22 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:17:22 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 11:49:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:49:35 UTC] PHP Stack trace:
+[14-Nov-2022 11:49:35 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:49:35 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:49:35 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:49:35 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:49:35 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php:9
+[14-Nov-2022 11:49:35 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:49:35 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:49:35 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 11:49:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:49:36 UTC] PHP Stack trace:
+[14-Nov-2022 11:49:36 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:49:36 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:49:36 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:49:36 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:49:36 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:4
+[14-Nov-2022 11:49:36 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:49:36 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:49:36 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 11:51:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:51:01 UTC] PHP Stack trace:
+[14-Nov-2022 11:51:01 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:51:01 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:51:01 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:51:01 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:51:01 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php:9
+[14-Nov-2022 11:51:01 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:51:01 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:51:01 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 11:51:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 38
+[14-Nov-2022 11:51:02 UTC] PHP Stack trace:
+[14-Nov-2022 11:51:02 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[14-Nov-2022 11:51:02 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[14-Nov-2022 11:51:02 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[14-Nov-2022 11:51:02 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[14-Nov-2022 11:51:02 UTC] PHP   5. get_header() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:4
+[14-Nov-2022 11:51:02 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:48
+[14-Nov-2022 11:51:02 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[14-Nov-2022 11:51:02 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[14-Nov-2022 12:16:13 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\header.php on line 73
+[14-Nov-2022 13:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php:70
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 70
+[15-Nov-2022 04:59:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 91
+[15-Nov-2022 04:59:26 UTC] PHP Stack trace:
+[15-Nov-2022 04:59:26 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 04:59:26 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 04:59:26 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 04:59:26 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 05:01:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 91
+[15-Nov-2022 05:01:21 UTC] PHP Stack trace:
+[15-Nov-2022 05:01:21 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 05:01:21 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 05:01:21 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 05:01:21 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 05:02:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 91
+[15-Nov-2022 05:02:49 UTC] PHP Stack trace:
+[15-Nov-2022 05:02:49 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 05:02:49 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 05:02:49 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 05:02:49 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 05:06:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 91
+[15-Nov-2022 05:06:41 UTC] PHP Stack trace:
+[15-Nov-2022 05:06:41 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 05:06:41 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 05:06:41 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 05:06:41 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 05:06:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 91
+[15-Nov-2022 05:06:49 UTC] PHP Stack trace:
+[15-Nov-2022 05:06:49 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 05:06:49 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 05:06:49 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 05:06:49 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 05:13:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 91
+[15-Nov-2022 05:13:50 UTC] PHP Stack trace:
+[15-Nov-2022 05:13:50 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 05:13:50 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 05:13:50 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 05:13:50 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 08:55:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 91
+[15-Nov-2022 08:55:25 UTC] PHP Stack trace:
+[15-Nov-2022 08:55:25 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 08:55:25 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 08:55:25 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 08:55:25 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 08:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php:90
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 90
+[15-Nov-2022 09:12:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 432
+[15-Nov-2022 09:13:26 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 434
+[15-Nov-2022 09:16:47 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 434
+[15-Nov-2022 09:19:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 09:19:49 UTC] PHP Stack trace:
+[15-Nov-2022 09:19:49 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 09:19:49 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 09:19:49 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 09:19:49 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 09:21:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 09:21:08 UTC] PHP Stack trace:
+[15-Nov-2022 09:21:08 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 09:21:08 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 09:21:08 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 09:21:08 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 10:17:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 10:17:04 UTC] PHP Stack trace:
+[15-Nov-2022 10:17:04 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 10:17:04 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 10:17:04 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 10:17:04 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 10:24:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 10:24:35 UTC] PHP Stack trace:
+[15-Nov-2022 10:24:35 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 10:24:35 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 10:24:35 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 10:24:35 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 10:24:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 166
+[15-Nov-2022 10:24:35 UTC] PHP Stack trace:
+[15-Nov-2022 10:24:35 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 10:24:35 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 10:24:35 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 10:24:35 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 10:25:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 10:25:00 UTC] PHP Stack trace:
+[15-Nov-2022 10:25:00 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 10:25:00 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 10:25:00 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 10:25:00 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 10:25:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 166
+[15-Nov-2022 10:25:00 UTC] PHP Stack trace:
+[15-Nov-2022 10:25:00 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 10:25:00 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 10:25:00 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 10:25:00 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 10:38:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 10:38:20 UTC] PHP Stack trace:
+[15-Nov-2022 10:38:20 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 10:38:20 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 10:38:20 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 10:38:20 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 10:38:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 10:38:40 UTC] PHP Stack trace:
+[15-Nov-2022 10:38:40 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 10:38:40 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 10:38:40 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 10:38:40 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 11:50:57 UTC] PHP Parse error:  syntax error, unexpected '"' in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 145
+[15-Nov-2022 11:55:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 11:55:26 UTC] PHP Stack trace:
+[15-Nov-2022 11:55:26 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 11:55:26 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 11:55:26 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 11:55:26 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 11:58:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 11:58:25 UTC] PHP Stack trace:
+[15-Nov-2022 11:58:25 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 11:58:25 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 11:58:25 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 11:58:25 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 11:59:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 11:59:08 UTC] PHP Stack trace:
+[15-Nov-2022 11:59:08 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 11:59:08 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 11:59:08 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 11:59:08 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 12:00:59 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-home.php on line 127
+[15-Nov-2022 12:56:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_posttype' not found or invalid function name in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php on line 308
+[15-Nov-2022 12:56:57 UTC] PHP Stack trace:
+[15-Nov-2022 12:56:57 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[15-Nov-2022 12:56:57 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[15-Nov-2022 12:56:57 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[15-Nov-2022 12:56:57 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[15-Nov-2022 12:56:57 UTC] PHP   5. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-settings.php:617
+[15-Nov-2022 12:56:57 UTC] PHP   6. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[15-Nov-2022 12:56:57 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[15-Nov-2022 12:56:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_posttype' not found or invalid function name in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php on line 308
+[15-Nov-2022 12:56:59 UTC] PHP Stack trace:
+[15-Nov-2022 12:56:59 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\post.php:0
+[15-Nov-2022 12:56:59 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\post.php:12
+[15-Nov-2022 12:56:59 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin.php:34
+[15-Nov-2022 12:56:59 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[15-Nov-2022 12:56:59 UTC] PHP   5. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[15-Nov-2022 12:56:59 UTC] PHP   6. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-settings.php:617
+[15-Nov-2022 12:56:59 UTC] PHP   7. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[15-Nov-2022 12:56:59 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[15-Nov-2022 12:57:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_posttype' not found or invalid function name in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php on line 308
+[15-Nov-2022 12:57:00 UTC] PHP Stack trace:
+[15-Nov-2022 12:57:00 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[15-Nov-2022 12:57:00 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[15-Nov-2022 12:57:00 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[15-Nov-2022 12:57:00 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[15-Nov-2022 12:57:00 UTC] PHP   5. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-settings.php:617
+[15-Nov-2022 12:57:00 UTC] PHP   6. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[15-Nov-2022 12:57:00 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[15-Nov-2022 12:57:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'create_posttype' not found or invalid function name in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php on line 308
+[15-Nov-2022 12:57:01 UTC] PHP Stack trace:
+[15-Nov-2022 12:57:01 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 12:57:01 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 12:57:01 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:13
+[15-Nov-2022 12:57:01 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[15-Nov-2022 12:57:01 UTC] PHP   5. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[15-Nov-2022 12:57:01 UTC] PHP   6. do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-settings.php:617
+[15-Nov-2022 12:57:01 UTC] PHP   7. WP_Hook->do_action() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\plugin.php:517
+[15-Nov-2022 12:57:01 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\class-wp-hook.php:332
+[15-Nov-2022 17:33:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-portfolio.php on line 59
+[15-Nov-2022 17:33:23 UTC] PHP Stack trace:
+[15-Nov-2022 17:33:23 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 17:33:23 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 17:33:23 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 17:33:23 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 17:36:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-portfolio.php on line 59
+[15-Nov-2022 17:36:55 UTC] PHP Stack trace:
+[15-Nov-2022 17:36:55 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 17:36:55 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 17:36:55 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 17:36:55 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 17:47:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-portfolio.php on line 61
+[15-Nov-2022 17:47:28 UTC] PHP Stack trace:
+[15-Nov-2022 17:47:28 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 17:47:28 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 17:47:28 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 17:47:28 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 17:47:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-portfolio.php on line 67
+[15-Nov-2022 17:47:28 UTC] PHP Stack trace:
+[15-Nov-2022 17:47:28 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 17:47:28 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 17:47:28 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 17:47:28 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 17:49:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-portfolio.php on line 63
+[15-Nov-2022 17:49:19 UTC] PHP Stack trace:
+[15-Nov-2022 17:49:19 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 17:49:19 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 17:49:19 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 17:49:19 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 19:43:14 UTC] PHP Fatal error:  Cannot redeclare portfolio_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:237) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 267
+[15-Nov-2022 19:43:14 UTC] PHP Stack trace:
+[15-Nov-2022 19:43:14 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[15-Nov-2022 19:43:14 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[15-Nov-2022 19:43:14 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[15-Nov-2022 19:43:14 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[15-Nov-2022 19:44:07 UTC] PHP Fatal error:  Cannot redeclare portfolio_post() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:237) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 267
+[15-Nov-2022 19:44:07 UTC] PHP Stack trace:
+[15-Nov-2022 19:44:07 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\index.php:0
+[15-Nov-2022 19:44:07 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\index.php:10
+[15-Nov-2022 19:44:07 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin.php:34
+[15-Nov-2022 19:44:07 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[15-Nov-2022 19:44:07 UTC] PHP   5. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[15-Nov-2022 19:58:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php:16
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php on line 16
+[15-Nov-2022 19:58:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php on line 17
+[15-Nov-2022 19:58:40 UTC] PHP Stack trace:
+[15-Nov-2022 19:58:40 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[15-Nov-2022 19:58:40 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[15-Nov-2022 19:58:40 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[15-Nov-2022 19:58:40 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[15-Nov-2022 19:59:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function esc_url(), 0 passed in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php on line 26 and at least 1 expected in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\formatting.php:4370
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php(26): esc_url()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#3 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#4 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\formatting.php on line 4370
+[17-Nov-2022 08:05:54 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php on line 53
+[17-Nov-2022 08:16:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_url() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php:36
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php on line 36
+[17-Nov-2022 08:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_url() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php:36
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-gallery.php on line 36
+[17-Nov-2022 11:59:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\footer.php on line 81
+[17-Nov-2022 11:59:09 UTC] PHP Stack trace:
+[17-Nov-2022 11:59:09 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[17-Nov-2022 11:59:09 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[17-Nov-2022 11:59:09 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[17-Nov-2022 11:59:09 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[17-Nov-2022 11:59:09 UTC] PHP   5. get_footer() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-contact.php:71
+[17-Nov-2022 11:59:09 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:92
+[17-Nov-2022 11:59:09 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[17-Nov-2022 11:59:09 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[17-Nov-2022 11:59:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\footer.php on line 81
+[17-Nov-2022 11:59:10 UTC] PHP Stack trace:
+[17-Nov-2022 11:59:10 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[17-Nov-2022 11:59:10 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[17-Nov-2022 11:59:10 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[17-Nov-2022 11:59:10 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[17-Nov-2022 11:59:10 UTC] PHP   5. get_footer() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:202
+[17-Nov-2022 11:59:10 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:92
+[17-Nov-2022 11:59:10 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[17-Nov-2022 11:59:10 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[17-Nov-2022 11:59:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\footer.php on line 81
+[17-Nov-2022 11:59:53 UTC] PHP Stack trace:
+[17-Nov-2022 11:59:53 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[17-Nov-2022 11:59:53 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[17-Nov-2022 11:59:53 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[17-Nov-2022 11:59:53 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[17-Nov-2022 11:59:53 UTC] PHP   5. get_footer() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-contact.php:71
+[17-Nov-2022 11:59:53 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:92
+[17-Nov-2022 11:59:53 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[17-Nov-2022 11:59:53 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[17-Nov-2022 11:59:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\footer.php on line 81
+[17-Nov-2022 11:59:54 UTC] PHP Stack trace:
+[17-Nov-2022 11:59:54 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[17-Nov-2022 11:59:54 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[17-Nov-2022 11:59:54 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[17-Nov-2022 11:59:54 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[17-Nov-2022 11:59:54 UTC] PHP   5. get_footer() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:202
+[17-Nov-2022 11:59:54 UTC] PHP   6. locate_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\general-template.php:92
+[17-Nov-2022 11:59:54 UTC] PHP   7. load_template() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:718
+[17-Nov-2022 11:59:54 UTC] PHP   8. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template.php:783
+[17-Nov-2022 16:28:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\template-about.php on line 32
+[17-Nov-2022 16:28:23 UTC] PHP Stack trace:
+[17-Nov-2022 16:28:23 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:0
+[17-Nov-2022 16:28:23 UTC] PHP   2. require() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php:17
+[17-Nov-2022 16:28:23 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php:19
+[17-Nov-2022 16:28:23 UTC] PHP   4. include() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php:106
+[17-Nov-2022 17:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:21
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php on line 21
+[17-Nov-2022 17:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:21
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php on line 21
+[17-Nov-2022 19:40:26 UTC] PHP Fatal error:  Cannot redeclare Theme01_sidebar1_init() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:335) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 354
+[17-Nov-2022 19:40:26 UTC] PHP Stack trace:
+[17-Nov-2022 19:40:26 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[17-Nov-2022 19:40:26 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[17-Nov-2022 19:40:26 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[17-Nov-2022 19:40:26 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[17-Nov-2022 19:42:27 UTC] PHP Fatal error:  Cannot redeclare Theme01_sidebar1_init() (previously declared in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php:335) in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\functions.php on line 354
+[17-Nov-2022 19:42:27 UTC] PHP Stack trace:
+[17-Nov-2022 19:42:27 UTC] PHP   1. {main}() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:0
+[17-Nov-2022 19:42:27 UTC] PHP   2. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-admin\admin-ajax.php:22
+[17-Nov-2022 19:42:27 UTC] PHP   3. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-load.php:50
+[17-Nov-2022 19:42:27 UTC] PHP   4. require_once() C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-config.php:91
+[19-Nov-2022 17:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_author_post_link() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:34
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php on line 34
+[19-Nov-2022 17:13:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_author_post_link() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:34
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php on line 34
+[19-Nov-2022 17:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_author_post_link() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:34
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php on line 34
+[19-Nov-2022 17:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_author_post_link() in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php:34
+Stack trace:
+#0 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Tanvir...')
+#2 C:\Users\Tanvir Islam\Local Sites\theme1\app\public\index.php(17): require('C:\\Users\\Tanvir...')
+#3 {main}
+  thrown in C:\Users\Tanvir Islam\Local Sites\theme1\app\public\wp-content\themes\theme1\index.php on line 34
